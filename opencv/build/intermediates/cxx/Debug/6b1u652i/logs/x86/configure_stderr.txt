@@ -1,0 +1,32 @@
+CMake Error at C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/testCCompiler.c
+
+
+CMake Error at C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: cmTC_159c9
+
+
+CMake Error at C:/Users/av592/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake:56 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (project)
+
+
+CMake Error at C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+
+
+CMake Error at C:/Users/av592/AndroidStudioProjects/EdgeDetection2/opencv/.cxx/Debug/6b1u652i/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: cmTC_1befb
+
+
+CMake Error at C:/Users/av592/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake:49 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (project)
+
+
